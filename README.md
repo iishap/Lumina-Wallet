@@ -9,10 +9,10 @@ Lumina Wallet is a **Telegram-based wallet** built on the **Stellar blockchain**
 - **Cross-Platform Compatibility**: Works on both desktop and mobile Telegram apps.
 
 ## Technologies Used
-- **TypeScript**: Ensures type safety and better code maintainability.
-- **JavaScript (JS)**: Enhances interactivity and handles core wallet functionalities.
-- **CSS**: Styles the interface for a clean and modern design.
-
+- **TypeScript**
+- **JavaScript (JS)**
+- **CSS**
+  
 ## Getting Started
 ### Prerequisites
 Make sure you have the following installed:
